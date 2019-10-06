@@ -1,0 +1,4 @@
+#Sun Mar 24 02:07:43 EDT 2019
+base.0=C\:\\Users\\anude\\Documents\\DS\\GroupMessenger2\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
